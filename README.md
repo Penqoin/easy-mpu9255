@@ -26,4 +26,5 @@ This library can for example give you the raw temperature, gyroscope, magnometer
 
 # MPU-9255 information
 Product Spesification: https://stanford.edu/class/ee267/misc/MPU-9255-Datasheet.pdf
+
 Register Map and Description: https://stanford.edu/class/ee267/misc/MPU-9255-Register-Map.pdf
