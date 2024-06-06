@@ -1,0 +1,5 @@
+-I/usr/share/arduino/hardware/arduino/avr/cores/arduino
+-I/usr/share/arduino/hardware/arduino/avr/variants/standard
+-I/usr/share/arduino/hardware/arduino/avr/libraries/Wire/src
+-I/usr/share/arduino/libraries
+-I/usr/lib/avr/include/
