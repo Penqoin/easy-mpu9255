@@ -5,7 +5,7 @@ This library can for example give you the raw temperature, gyroscope, magnometer
 
 
 
-# FEATURES
+## FEATURES
   * read raw sensor data
   * automatically converts the raw sensor data into more usefull data
   * allows adjustment of the gyroscope, accelorometer and magnometer
@@ -15,7 +15,7 @@ This library can for example give you the raw temperature, gyroscope, magnometer
 
 
 
-# INSTALLATION
+## INSTALLATION
   1. Download the library (Clone or Download)
   2. Launch the Arduino IDE
   3. Go to: sketch -> include library then select "add .zip library"
@@ -24,7 +24,7 @@ This library can for example give you the raw temperature, gyroscope, magnometer
 
 
 
-# MPU-9255 information
+## MPU-9255 information
 Product Spesification: https://stanford.edu/class/ee267/misc/MPU-9255-Datasheet.pdf
 
 Register Map and Description: https://stanford.edu/class/ee267/misc/MPU-9255-Register-Map.pdf
